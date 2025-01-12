@@ -184,6 +184,12 @@ body {
 
     .rodape__lista {
         display: block;
+
+    }
+
+    .lista__link {
+        font-size: small;
+        margin-right: 2em;
     }
 }
     
